@@ -8,8 +8,8 @@ I am a dedicated Data Scientist with a strong passion for turning data into acti
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [augustio.im@gmail.com](mailto:augustio.im@gmail.com)
-* 🧠  I'm learning I'm learning Generative AI
-* 🤝  I'm open to collaborating on I'm open to collaboration on Generative AI
+* 🧠  I'm learning I'm learning Generative AI & Data Science
+* 🤝  I'm open to collaborating on I'm open to collaboration on Generative AI & Data Science
 
 <a href="https://www.github.com/Indra-Augustio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Indra-Augustio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
